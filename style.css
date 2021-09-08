@@ -1,0 +1,132 @@
+/* NavBar */
+.link1{
+    font-family: 'Playfair Display',serif;
+    font-size: 18px;
+    color: #3c3c3c !important;
+}
+
+.item1{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar-nav {
+    padding-left: 200px;
+}
+
+/*Section1*/
+
+.section1{
+    font-family: 'Raleway';
+    padding-bottom: 100px;
+}
+
+.red{
+    color: #e2574c;
+    font-size: 14px;
+}
+
+.gris{
+    color: #898989;
+    font-size: 14px;
+}
+
+/*Titre*/
+
+.h1{
+    color:#3c3c3c;
+    font-size: 45px;
+    font-family: 'Raleway';
+}
+
+.font{
+    font-family: 'Playfair Display';
+    font-size: 16px;
+    color: #979797;
+}
+
+/*Section2*/
+
+#section2{
+    background-color:#f6f6f6;
+}
+
+.title{
+    font-family: 'Raleway';
+    font-size: 20px;
+    color:#3c3c3c;
+}
+
+/* Section 2 + 3 */
+
+.font1{
+    font-family: 'Playfair Display';
+    font-size: 14px;
+    color: #979797;
+}
+
+/* Section 3 */
+
+.red2{
+    padding-bottom: 0px !important;
+    font-family: 'Playfair Display';
+    font-size: 20px;
+    color: #e2574c;
+    text-align: right; 
+}
+
+.line-bar {
+    margin-left: 270px;
+    width: 265px;
+    height: 1px;
+    background-color:#e2574c;
+}
+
+.card{
+    font-weight: 700px !important;
+   
+}
+
+.card-body{
+    padding: 10px !important;
+}
+
+.title1{
+    font-family: 'Raleway';
+    font-size: 20px;
+    color:#000000;
+}
+
+/* section 4 */
+
+#section4{
+    background-color:#f6f6f6;
+}
+
+#footer{
+    background-color: #303030;
+}
+
+.title2{
+    font-family: 'Raleway';
+    font-size: 28px;
+    color:#ffffff;
+}
+
+.text a{
+    font-family: 'Playfair Display'!important;
+    font-size: 15px !important;
+    color:white !important;
+    list-style-type: none !important;
+    padding-left: 0px !important;
+}
+
+.text1{
+    font-family: 'Playfair Display'!important;
+    font-size: 15px !important;
+    color:white !important;
+}
+
+.em{
+    color: #e2574c !important;
+}
